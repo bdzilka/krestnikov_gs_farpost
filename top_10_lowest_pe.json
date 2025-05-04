@@ -1,0 +1,122 @@
+[
+    {
+        "name": "AES",
+        "details_url": "https://markets.businessinsider.com/stocks/aes-stock",
+        "price_usd": 10.18,
+        "growth": -44.96,
+        "price_rub": 829.601794,
+        "code": "AES",
+        "pe": 5.44,
+        "52_week_low": 9.58,
+        "52_week_high": 22.2,
+        "potential_profit": 131.73277661795407
+    },
+    {
+        "name": "Altria",
+        "details_url": "https://markets.businessinsider.com/stocks/mo-stock",
+        "price_usd": 59.61,
+        "growth": 34.98,
+        "price_rub": 4857.815613000001,
+        "code": "MO",
+        "pe": 8.0,
+        "52_week_low": 43.37,
+        "52_week_high": 60.17,
+        "potential_profit": 38.73645376988703
+    },
+    {
+        "name": "APA Corporation Registered Shs",
+        "details_url": "https://markets.businessinsider.com/stocks/apa-stock",
+        "price_usd": 16.46,
+        "growth": -49.05,
+        "price_rub": 1341.3797180000001,
+        "code": "APA",
+        "pe": 10.14,
+        "52_week_low": 13.59,
+        "52_week_high": 33.37,
+        "potential_profit": 145.54819720382633
+    },
+    {
+        "name": "Aflac",
+        "details_url": "https://markets.businessinsider.com/stocks/afl-stock",
+        "price_usd": 105.53,
+        "growth": 28.51,
+        "price_rub": 8599.987949,
+        "code": "AFL",
+        "pe": 10.74,
+        "52_week_low": 80.6,
+        "52_week_high": 115.5,
+        "potential_profit": 43.300248138957826
+    },
+    {
+        "name": "Allstate",
+        "details_url": "https://markets.businessinsider.com/stocks/all-stock",
+        "price_usd": 199.3,
+        "growth": 15.64,
+        "price_rub": 16241.614690000002,
+        "code": "ALL",
+        "pe": 11.35,
+        "52_week_low": 155.0,
+        "52_week_high": 212.87,
+        "potential_profit": 37.33548387096774
+    },
+    {
+        "name": "Archer Daniels Midland",
+        "details_url": "https://markets.businessinsider.com/stocks/adm-stock",
+        "price_usd": 47.85,
+        "growth": -18.19,
+        "price_rub": 3899.4544050000004,
+        "code": "ADM",
+        "pe": 13.84,
+        "52_week_low": 40.99,
+        "52_week_high": 66.07,
+        "potential_profit": 61.18565503781408
+    },
+    {
+        "name": "American International Group",
+        "details_url": "https://markets.businessinsider.com/stocks/aig-stock",
+        "price_usd": 83.66,
+        "growth": 7.53,
+        "price_rub": 6817.729478,
+        "code": "AIG",
+        "pe": 14.38,
+        "52_week_low": 69.07,
+        "52_week_high": 88.06,
+        "potential_profit": 27.493846822064587
+    },
+    {
+        "name": "Assurant",
+        "details_url": "https://markets.businessinsider.com/stocks/aiz-stock",
+        "price_usd": 197.02,
+        "growth": 10.36,
+        "price_rub": 16055.809966000003,
+        "code": "AIZ",
+        "pe": 14.75,
+        "52_week_low": 160.51,
+        "52_week_high": 230.7,
+        "potential_profit": 43.7293626565323
+    },
+    {
+        "name": "Abbott Laboratories",
+        "details_url": "https://markets.businessinsider.com/stocks/abt-stock",
+        "price_usd": 132.82,
+        "growth": 23.01,
+        "price_rub": 10823.940106,
+        "code": "ABT",
+        "pe": 14.81,
+        "52_week_low": 97.9,
+        "52_week_high": 141.16,
+        "potential_profit": 44.187946884576085
+    },
+    {
+        "name": "AT&T",
+        "details_url": "https://markets.businessinsider.com/stocks/t-stock",
+        "price_usd": 27.61,
+        "growth": 63.71,
+        "price_rub": 2250.030013,
+        "code": "T",
+        "pe": 15.26,
+        "52_week_low": 16.74,
+        "52_week_high": 29.03,
+        "potential_profit": 73.41696535244925
+    }
+]

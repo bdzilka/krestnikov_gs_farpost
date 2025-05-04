@@ -1,0 +1,122 @@
+[
+    {
+        "name": "APA Corporation Registered Shs",
+        "details_url": "https://markets.businessinsider.com/stocks/apa-stock",
+        "price_usd": 16.46,
+        "growth": -49.05,
+        "price_rub": 1341.3797180000001,
+        "code": "APA",
+        "pe": 10.14,
+        "52_week_low": 13.59,
+        "52_week_high": 33.37,
+        "potential_profit": 145.54819720382633
+    },
+    {
+        "name": "AMD",
+        "details_url": "https://markets.businessinsider.com/stocks/amd-stock",
+        "price_usd": 98.8,
+        "growth": -32.52,
+        "price_rub": 8051.53804,
+        "code": "AMD",
+        "pe": 122.15,
+        "52_week_low": 76.49,
+        "52_week_high": 187.25,
+        "potential_profit": 144.8032422538894
+    },
+    {
+        "name": "AES",
+        "details_url": "https://markets.businessinsider.com/stocks/aes-stock",
+        "price_usd": 10.18,
+        "growth": -44.96,
+        "price_rub": 829.601794,
+        "code": "AES",
+        "pe": 5.44,
+        "52_week_low": 9.58,
+        "52_week_high": 22.2,
+        "potential_profit": 131.73277661795407
+    },
+    {
+        "name": "Align Technology",
+        "details_url": "https://markets.businessinsider.com/stocks/algn-stock",
+        "price_usd": 179.82,
+        "growth": -39.09,
+        "price_rub": 14654.125206,
+        "code": "ALGN",
+        "pe": 37.11,
+        "52_week_low": 141.83,
+        "52_week_high": 295.75,
+        "potential_profit": 108.52428964252978
+    },
+    {
+        "name": "Applied Materials",
+        "details_url": "https://markets.businessinsider.com/stocks/amat-stock",
+        "price_usd": 155.1,
+        "growth": -22.31,
+        "price_rub": 12639.61083,
+        "code": "AMAT",
+        "pe": 21.67,
+        "52_week_low": 123.71,
+        "52_week_high": 256.99,
+        "potential_profit": 107.73583380486625
+    },
+    {
+        "name": "Alexandria Real Estate Equities",
+        "details_url": "https://markets.businessinsider.com/stocks/are-stock",
+        "price_usd": 74.47,
+        "growth": -37.79,
+        "price_rub": 6068.8060510000005,
+        "code": "ARE",
+        "pe": 54.22,
+        "52_week_low": 70.6,
+        "52_week_high": 130.14,
+        "potential_profit": 84.33427762039659
+    },
+    {
+        "name": "Adobe",
+        "details_url": "https://markets.businessinsider.com/stocks/adbe-stock",
+        "price_usd": 380.87,
+        "growth": -20.11,
+        "price_rub": 31038.353171000002,
+        "code": "ADBE",
+        "pe": 41.73,
+        "52_week_low": 332.11,
+        "52_week_high": 588.36,
+        "potential_profit": 77.15817048568245
+    },
+    {
+        "name": "AT&T",
+        "details_url": "https://markets.businessinsider.com/stocks/t-stock",
+        "price_usd": 27.61,
+        "growth": 63.71,
+        "price_rub": 2250.030013,
+        "code": "T",
+        "pe": 15.26,
+        "52_week_low": 16.74,
+        "52_week_high": 29.03,
+        "potential_profit": 73.41696535244925
+    },
+    {
+        "name": "Autodesk",
+        "details_url": "https://markets.businessinsider.com/stocks/adsk-stock",
+        "price_usd": 279.99,
+        "growth": 30.16,
+        "price_rub": 22817.309067000002,
+        "code": "ADSK",
+        "pe": 60.76,
+        "52_week_low": 188.8,
+        "52_week_high": 326.62,
+        "potential_profit": 72.9978813559322
+    },
+    {
+        "name": "Airbnb",
+        "details_url": "https://markets.businessinsider.com/stocks/abnb-stock",
+        "price_usd": 125.26,
+        "growth": -21.93,
+        "price_rub": 10207.850758,
+        "code": "ABNB",
+        "pe": 32.01,
+        "52_week_low": 99.93,
+        "52_week_high": 166.68,
+        "potential_profit": 66.79675773041129
+    }
+]

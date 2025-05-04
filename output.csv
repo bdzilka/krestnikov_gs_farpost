@@ -1,0 +1,46 @@
+﻿name;details_url;price_usd;growth;price_rub;code;pe;52_week_low;52_week_high;potential_profit
+3M;https://markets.businessinsider.com/stocks/mmm-stock;142.08;41.11;11578.568064000001;MMM;17.09;95.02;156.35;64.54430646179752
+A.O. Smith;https://markets.businessinsider.com/stocks/aos-stock;68.45;-18.03;5578.216385000001;AOS;18.8;58.85;92.42;57.043330501274426
+Abbott Laboratories;https://markets.businessinsider.com/stocks/abt-stock;132.82;23.01;10823.940106;ABT;14.81;97.9;141.16;44.187946884576085
+AbbVie;https://markets.businessinsider.com/stocks/abbv-stock;198.47;20.64;16173.975251000002;ABBV;74.34;153.58;218.63;42.355775491600454
+Accenture;https://markets.businessinsider.com/stocks/acn-stock;305.33;0.16;24882.349289;ACN;29.9;275.97;398.27;44.31641120411637
+Adobe;https://markets.businessinsider.com/stocks/adbe-stock;380.87;-20.11;31038.353171000002;ADBE;41.73;332.11;588.36;77.15817048568245
+AES;https://markets.businessinsider.com/stocks/aes-stock;10.18;-44.96;829.601794;AES;5.44;9.58;22.2;131.73277661795407
+Aflac;https://markets.businessinsider.com/stocks/afl-stock;105.53;28.51;8599.987949;AFL;10.74;80.6;115.5;43.300248138957826
+Agilent Technologies;https://markets.businessinsider.com/stocks/a-stock;108.63;-22.42;8852.617179;A;29.42;96.48;155.33;60.99709784411278
+Air Products and Chemicals;https://markets.businessinsider.com/stocks/apd-stock;277.62;14.15;22624.169946;APD;17.27;235.36;341.03;44.8971787899388
+Airbnb;https://markets.businessinsider.com/stocks/abnb-stock;125.26;-21.93;10207.850758;ABNB;32.01;99.93;166.68;66.79675773041129
+Akamai;https://markets.businessinsider.com/stocks/akam-stock;82.54;-20.13;6726.456982000001;AKAM;29.24;67.64;106.79;57.87995269071556
+Alexandria Real Estate Equities;https://markets.businessinsider.com/stocks/are-stock;74.47;-37.79;6068.8060510000005;ARE;54.22;70.6;130.14;84.33427762039659
+Align Technology;https://markets.businessinsider.com/stocks/algn-stock;179.82;-39.09;14654.125206;ALGN;37.11;141.83;295.75;108.52428964252978
+Allegion;https://markets.businessinsider.com/stocks/alle-stock;140.93;14.98;11484.850769;ALLE;19.16;113.28;155.97;37.6853813559322
+Alliant Energy;https://markets.businessinsider.com/stocks/lnt-stock;61.17;21.21;4984.945161000001;LNT;22.01;49.05;66.57;35.71865443425076
+Allstate;https://markets.businessinsider.com/stocks/all-stock;199.3;15.64;16241.614690000002;ALL;11.35;155.0;212.87;37.33548387096774
+Alphabet A;https://markets.businessinsider.com/stocks/googl-stock;164.03;-3.09;13367.345999000001;GOOGL;23.53;140.54;207.02;47.30325885868793
+Alphabet C;https://markets.businessinsider.com/stocks/goog-stock;165.81;-2.83;13512.404073000002;GOOG;23.68;142.68;208.64;46.22932436220913
+Altria;https://markets.businessinsider.com/stocks/mo-stock;59.61;34.98;4857.815613000001;MO;8.0;43.37;60.17;38.73645376988703
+Amazon;https://markets.businessinsider.com/stocks/amzn-stock;189.98;3.03;15482.097134;AMZN;39.7;151.57;242.51;59.99868047766709
+Amcor;https://markets.businessinsider.com/stocks/amcr-stock;9.32;-6.12;759.517556;AMCR;19.44;8.38;11.48;36.99284009546538
+AMD;https://markets.businessinsider.com/stocks/amd-stock;98.8;-32.52;8051.53804;AMD;122.15;76.49;187.25;144.8032422538894
+Ameren;https://markets.businessinsider.com/stocks/aee-stock;99.48;33.23;8106.953484000001;AEE;20.17;69.4;104.0;49.85590778097981
+American Electric Power;https://markets.businessinsider.com/stocks/aep-stock;107.69;22.9;8776.013477;AEP;16.52;85.94;110.45;28.519897602978826
+American Express;https://markets.businessinsider.com/stocks/axp-stock;276.85;15.1;22561.420105000005;AXP;21.17;219.45;326.22;48.65345181134657
+American International Group;https://markets.businessinsider.com/stocks/aig-stock;83.66;7.53;6817.729478;AIG;14.38;69.07;88.06;27.493846822064587
+American Tower;https://markets.businessinsider.com/stocks/amt-stock;223.6;27.47;18221.90188;AMT;38.07;172.51;243.56;41.18601820184338
+American Water Works;https://markets.businessinsider.com/stocks/awk-stock;147.11;17.5;11988.479363000002;AWK;23.1;118.8;155.46;30.85858585858587
+Ameriprise Financial;https://markets.businessinsider.com/stocks/amp-stock;484.48;13.93;39481.873984000005;AMP;16.11;385.84;578.0;49.80302716151774
+Ametek;https://markets.businessinsider.com/stocks/ame-stock;170.07;-2.53;13859.565531;AME;30.41;145.51;198.04;36.10061164181156
+Amgen;https://markets.businessinsider.com/stocks/amgn-stock;281.22;4.89;22917.545826000005;AMGN;34.48;253.38;346.67;36.818217696740085
+Amphenol;https://markets.businessinsider.com/stocks/aph-stock;80.66;29.05;6573.249578;APH;36.2;54.76;80.99;47.899926953981
+Analog Devices;https://markets.businessinsider.com/stocks/adi-stock;198.59;0.53;16183.754447000001;ADI;68.76;158.74;247.11;55.669648481794134
+ANSYS;https://markets.businessinsider.com/stocks/anss-stock;328.76;0.12;26791.737308;ANSS;51.5;275.06;363.07;31.996655275212678
+Aon;https://markets.businessinsider.com/stocks/aon-stock;356.25;25.01;29031.988125000003;AON;28.76;275.28;413.05;50.04722464399885
+APA Corporation Registered Shs;https://markets.businessinsider.com/stocks/apa-stock;16.46;-49.05;1341.3797180000001;APA;10.14;13.59;33.37;145.54819720382633
+Apple;https://markets.businessinsider.com/stocks/aapl-stock;205.35;25.52;16734.649155;AAPL;37.44;169.22;260.09;53.69932632076585
+Applied Materials;https://markets.businessinsider.com/stocks/amat-stock;155.1;-22.31;12639.61083;AMAT;21.67;123.71;256.99;107.73583380486625
+Archer Daniels Midland;https://markets.businessinsider.com/stocks/adm-stock;47.85;-18.19;3899.4544050000004;ADM;13.84;40.99;66.07;61.18565503781408
+Arthur J. Gallagher;https://markets.businessinsider.com/stocks/ajg-stock;331.08;34.29;26980.801764;AJG;43.66;235.08;350.92;49.2768419261528
+Assurant;https://markets.businessinsider.com/stocks/aiz-stock;197.02;10.36;16055.809966000003;AIZ;14.75;160.51;230.7;43.7293626565323
+AT&T;https://markets.businessinsider.com/stocks/t-stock;27.61;63.71;2250.030013;T;15.26;16.74;29.03;73.41696535244925
+Atmos Energy;https://markets.businessinsider.com/stocks/ato-stock;161.5;35.37;13161.167950000001;ATO;20.32;110.98;161.69;45.69291764281852
+Autodesk;https://markets.businessinsider.com/stocks/adsk-stock;279.99;30.16;22817.309067000002;ADSK;60.76;188.8;326.62;72.9978813559322
