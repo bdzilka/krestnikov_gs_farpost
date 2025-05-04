@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Ameriprise Financial",
+        "details_url": "https://markets.businessinsider.com/stocks/amp-stock",
+        "price_usd": 484.48,
+        "growth": 13.93,
+        "price_rub": 39481.873984000005,
+        "code": "AMP",
+        "pe": 16.11,
+        "52_week_low": 385.84,
+        "52_week_high": 578.0,
+        "potential_profit": 49.80302716151774
+    },
+    {
+        "name": "Adobe",
+        "details_url": "https://markets.businessinsider.com/stocks/adbe-stock",
+        "price_usd": 380.87,
+        "growth": -20.11,
+        "price_rub": 31038.353171000002,
+        "code": "ADBE",
+        "pe": 41.73,
+        "52_week_low": 332.11,
+        "52_week_high": 588.36,
+        "potential_profit": 77.15817048568245
+    },
+    {
+        "name": "Aon",
+        "details_url": "https://markets.businessinsider.com/stocks/aon-stock",
+        "price_usd": 356.25,
+        "growth": 25.01,
+        "price_rub": 29031.988125000003,
+        "code": "AON",
+        "pe": 28.76,
+        "52_week_low": 275.28,
+        "52_week_high": 413.05,
+        "potential_profit": 50.04722464399885
+    },
+    {
+        "name": "Arthur J. Gallagher",
+        "details_url": "https://markets.businessinsider.com/stocks/ajg-stock",
+        "price_usd": 331.08,
+        "growth": 34.29,
+        "price_rub": 26980.801764,
+        "code": "AJG",
+        "pe": 43.66,
+        "52_week_low": 235.08,
+        "52_week_high": 350.92,
+        "potential_profit": 49.2768419261528
+    },
+    {
+        "name": "ANSYS",
+        "details_url": "https://markets.businessinsider.com/stocks/anss-stock",
+        "price_usd": 328.76,
+        "growth": 0.12,
+        "price_rub": 26791.737308,
+        "code": "ANSS",
+        "pe": 51.5,
+        "52_week_low": 275.06,
+        "52_week_high": 363.07,
+        "potential_profit": 31.996655275212678
+    },
+    {
+        "name": "Accenture",
+        "details_url": "https://markets.businessinsider.com/stocks/acn-stock",
+        "price_usd": 305.33,
+        "growth": 0.16,
+        "price_rub": 24882.349289,
+        "code": "ACN",
+        "pe": 29.9,
+        "52_week_low": 275.97,
+        "52_week_high": 398.27,
+        "potential_profit": 44.31641120411637
+    },
+    {
+        "name": "Amgen",
+        "details_url": "https://markets.businessinsider.com/stocks/amgn-stock",
+        "price_usd": 281.22,
+        "growth": 4.89,
+        "price_rub": 22917.545826000005,
+        "code": "AMGN",
+        "pe": 34.48,
+        "52_week_low": 253.38,
+        "52_week_high": 346.67,
+        "potential_profit": 36.818217696740085
+    },
+    {
+        "name": "Autodesk",
+        "details_url": "https://markets.businessinsider.com/stocks/adsk-stock",
+        "price_usd": 279.99,
+        "growth": 30.16,
+        "price_rub": 22817.309067000002,
+        "code": "ADSK",
+        "pe": 60.76,
+        "52_week_low": 188.8,
+        "52_week_high": 326.62,
+        "potential_profit": 72.9978813559322
+    },
+    {
+        "name": "Air Products and Chemicals",
+        "details_url": "https://markets.businessinsider.com/stocks/apd-stock",
+        "price_usd": 277.62,
+        "growth": 14.15,
+        "price_rub": 22624.169946,
+        "code": "APD",
+        "pe": 17.27,
+        "52_week_low": 235.36,
+        "52_week_high": 341.03,
+        "potential_profit": 44.8971787899388
+    },
+    {
+        "name": "American Express",
+        "details_url": "https://markets.businessinsider.com/stocks/axp-stock",
+        "price_usd": 276.85,
+        "growth": 15.1,
+        "price_rub": 22561.420105000005,
+        "code": "AXP",
+        "pe": 21.17,
+        "52_week_low": 219.45,
+        "52_week_high": 326.22,
+        "potential_profit": 48.65345181134657
+    }
+]

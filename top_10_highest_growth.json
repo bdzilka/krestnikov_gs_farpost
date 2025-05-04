@@ -1,0 +1,122 @@
+[
+    {
+        "name": "AT&T",
+        "details_url": "https://markets.businessinsider.com/stocks/t-stock",
+        "price_usd": 27.61,
+        "growth": 63.71,
+        "price_rub": 2250.030013,
+        "code": "T",
+        "pe": 15.26,
+        "52_week_low": 16.74,
+        "52_week_high": 29.03,
+        "potential_profit": 73.41696535244925
+    },
+    {
+        "name": "3M",
+        "details_url": "https://markets.businessinsider.com/stocks/mmm-stock",
+        "price_usd": 142.08,
+        "growth": 41.11,
+        "price_rub": 11578.568064000001,
+        "code": "MMM",
+        "pe": 17.09,
+        "52_week_low": 95.02,
+        "52_week_high": 156.35,
+        "potential_profit": 64.54430646179752
+    },
+    {
+        "name": "Atmos Energy",
+        "details_url": "https://markets.businessinsider.com/stocks/ato-stock",
+        "price_usd": 161.5,
+        "growth": 35.37,
+        "price_rub": 13161.167950000001,
+        "code": "ATO",
+        "pe": 20.32,
+        "52_week_low": 110.98,
+        "52_week_high": 161.69,
+        "potential_profit": 45.69291764281852
+    },
+    {
+        "name": "Altria",
+        "details_url": "https://markets.businessinsider.com/stocks/mo-stock",
+        "price_usd": 59.61,
+        "growth": 34.98,
+        "price_rub": 4857.815613000001,
+        "code": "MO",
+        "pe": 8.0,
+        "52_week_low": 43.37,
+        "52_week_high": 60.17,
+        "potential_profit": 38.73645376988703
+    },
+    {
+        "name": "Arthur J. Gallagher",
+        "details_url": "https://markets.businessinsider.com/stocks/ajg-stock",
+        "price_usd": 331.08,
+        "growth": 34.29,
+        "price_rub": 26980.801764,
+        "code": "AJG",
+        "pe": 43.66,
+        "52_week_low": 235.08,
+        "52_week_high": 350.92,
+        "potential_profit": 49.2768419261528
+    },
+    {
+        "name": "Ameren",
+        "details_url": "https://markets.businessinsider.com/stocks/aee-stock",
+        "price_usd": 99.48,
+        "growth": 33.23,
+        "price_rub": 8106.953484000001,
+        "code": "AEE",
+        "pe": 20.17,
+        "52_week_low": 69.4,
+        "52_week_high": 104.0,
+        "potential_profit": 49.85590778097981
+    },
+    {
+        "name": "Autodesk",
+        "details_url": "https://markets.businessinsider.com/stocks/adsk-stock",
+        "price_usd": 279.99,
+        "growth": 30.16,
+        "price_rub": 22817.309067000002,
+        "code": "ADSK",
+        "pe": 60.76,
+        "52_week_low": 188.8,
+        "52_week_high": 326.62,
+        "potential_profit": 72.9978813559322
+    },
+    {
+        "name": "Amphenol",
+        "details_url": "https://markets.businessinsider.com/stocks/aph-stock",
+        "price_usd": 80.66,
+        "growth": 29.05,
+        "price_rub": 6573.249578,
+        "code": "APH",
+        "pe": 36.2,
+        "52_week_low": 54.76,
+        "52_week_high": 80.99,
+        "potential_profit": 47.899926953981
+    },
+    {
+        "name": "Aflac",
+        "details_url": "https://markets.businessinsider.com/stocks/afl-stock",
+        "price_usd": 105.53,
+        "growth": 28.51,
+        "price_rub": 8599.987949,
+        "code": "AFL",
+        "pe": 10.74,
+        "52_week_low": 80.6,
+        "52_week_high": 115.5,
+        "potential_profit": 43.300248138957826
+    },
+    {
+        "name": "American Tower",
+        "details_url": "https://markets.businessinsider.com/stocks/amt-stock",
+        "price_usd": 223.6,
+        "growth": 27.47,
+        "price_rub": 18221.90188,
+        "code": "AMT",
+        "pe": 38.07,
+        "52_week_low": 172.51,
+        "52_week_high": 243.56,
+        "potential_profit": 41.18601820184338
+    }
+]
